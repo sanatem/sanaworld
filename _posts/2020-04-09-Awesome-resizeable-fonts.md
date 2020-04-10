@@ -2,7 +2,7 @@
 layout: post
 title: TIL how to resize fonts for every screen.
 subtitle : Not everything is %, pixels or rems.
-tags: [TIL, SCSS, Frontend]
+tags: [TIL, SASS, Frontend]
 author: Sanatem
 comments : True
 ---

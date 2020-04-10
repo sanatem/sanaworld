@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/smile.jpg
     username : '@sanatem'
-    description : Personal project's Blog
+    description : Personal projects Blog
     # experience :
     #   - start : 2017-05-03
     #     end : 2018-05-06
